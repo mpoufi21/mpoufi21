@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 🌸 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 🌸 ~</h1>
+<h1 align="center">🌸 ~ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 ~ 🌸</h1>
 <br>
 <div align="center">
 <p> 𝒴𝑜𝓊 𝒶𝓇𝑒 𝓃𝑜𝓌 𝒶𝓃 𝒾𝓂𝓅𝑜𝓇𝓉𝒶𝓃𝓉 𝓈𝒾𝒹𝑒 𝒸𝒽𝒶𝓇𝒶𝒸𝓉𝑒𝓇 𝒾𝓃 𝓂𝓎 𝒶𝓇𝒸. </p>
@@ -28,7 +28,7 @@
 <br>
 </div>
 <div>
-<h2 align="center"> ~ 🌸 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🌸 ~</h2>
+<h2 align="center"> 🌸 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 🌸</h2>
  <br>
 <p>
   <div align="center">
@@ -83,9 +83,8 @@
 <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 <br><br>
+<p align="center"> 𝒽𝑜𝓅𝑒 𝓉𝒽𝒾𝓈 𝓌𝒶𝓈𝓃’𝓉 𝓉𝑜𝑜 𝓂𝓊𝒸𝒽 𝓁𝑜𝓇𝑒… <br> 𝒷𝓊𝓉 𝓎𝑜𝓊 𝓀𝓃𝑜𝓌, 𝓉𝒽𝑒 𝓅𝓁𝑜𝓉 𝑔𝑜𝑒𝓈 𝑜𝓃. </p>
 
-𝒽𝑜𝓅𝑒 𝓉𝒽𝒾𝓈 𝓌𝒶𝓈𝓃’𝓉 𝓉𝑜𝑜 𝓂𝓊𝒸𝒽 𝓁𝑜𝓇𝑒…  
-𝒷𝓊𝓉 𝓎𝑜𝓊 𝓀𝓃𝑜𝓌, 𝓉𝒽𝑒 𝓅𝓁𝑜𝓉 𝑔𝑜𝑒𝓈 𝑜𝓃. 
 </p>
 <br>
 <div>
