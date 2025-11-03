@@ -32,7 +32,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media1.tenor.com/m/1ikT54heTxcAAAAd/nezuko.gif" align="right" width="250">
+<img src="https://media1.tenor.com/m/1ikT54heTxcAAAAd/nezuko.gif" align="right" width="300">
   </div>
 </div>
 <div>
@@ -77,8 +77,11 @@
 
 <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20desktop-%236f42c1.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/dbeaver-%234B8BBE.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/> 
+
+<br>
+
+<img src="https://img.shields.io/badge/github%20desktop-%236f42c1.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/bruno-%23F24E1E.svg?&style=for-the-badge&logo=bruno&logoColor=white"/> 
 <img src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white"/>
 
