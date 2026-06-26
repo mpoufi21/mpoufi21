@@ -1,6 +1,17 @@
 <body>
   <center>
 <h1 align="center">🌸 ~ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 ~ 🌸</h1>
+
+<div align="center">
+  <a href="https://github.com/mpoufi21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=520&lines=Hi+I'm+ 🌸 mpoufi 🌸;Powered+by+anime+%26+caffeine" alt="typing">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mpoufi21&label=Side+characters+met&color=ff69b4&style=flat" alt="profile views">
+</div>
+
 <br>
 <div align="center">
 <p> 𝒴𝑜𝓊 𝒶𝓇𝑒 𝓃𝑜𝓌 𝒶𝓃 𝒾𝓂𝓅𝑜𝓇𝓉𝒶𝓃𝓉 𝓈𝒾𝒹𝑒 𝒸𝒽𝒶𝓇𝒶𝒸𝓉𝑒𝓇 𝒾𝓃 𝓂𝓎 𝒶𝓇𝒸. </p>
@@ -20,10 +31,10 @@
 <b>Gender:</b> 𝓈𝒽𝑒 / 𝒽𝑒𝓇
 </li>
 <li>
-<b>Hobbys:</b> 𝓁𝒾𝓋𝑒𝓈 𝑜𝒻𝒻 𝒶𝓃𝒾𝓂𝑒 ✧ 𝓋𝒾𝒹𝑒𝑜 𝑔𝒶𝓂𝑒𝓈 ✧ 𝓂𝒶𝓃𝑔𝒶 (𝓈𝓊𝓅𝓅𝓸𝓇𝓉 𝓂𝓎 𝒶𝒹𝒹𝒾𝒸𝓉𝒾𝑜𝓃𝓈)
+<b>Hobbys:</b> 𝓁𝒾𝓋𝑒𝓈 𝑜𝒻𝒻 𝒶𝓃𝒾𝓂𝑒 ✧ 𝓋𝒾𝒹𝑒𝑜 𝑔𝒶𝓂𝑒𝓈 ✧ 𝓂𝒶𝓃𝑔𝒶 
 </li>
 <li>
-<b>Working :</b> 𝒻𝓊𝓁𝓁𝓈𝓉𝒶𝒸𝓀 𝒹𝑒𝓋 ✧ 𝓉𝑒𝒶𝓂 𝓁𝑒𝒶𝒹𝑒𝓇
+<b>Working :</b> 𝒻𝓊𝓁𝓁𝓈𝓉𝒶𝒸𝓀 𝒹𝑒𝓋 ✧ 𝓁𝑒𝒶𝒹 𝓅𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝑒𝓇
 </li>
 <br>
 </div>
@@ -89,6 +100,13 @@
 <p align="center"> 𝒽𝑜𝓅𝑒 𝓉𝒽𝒾𝓈 𝓌𝒶𝓈𝓃’𝓉 𝓉𝑜𝑜 𝓂𝓊𝒸𝒽 𝓁𝑜𝓇𝑒… <br> 𝒷𝓊𝓉 𝓎𝑜𝓊 𝓀𝓃𝑜𝓌, 𝓉𝒽𝑒 𝓅𝓁𝑜𝓉 𝑔𝑜𝑒𝓈 𝑜𝓃. </p>
 
 </p>
+<br>
+<h2 align="center">🌸 ~ 𝓛𝓮𝓽'𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 ~ 🌸</h2>
+<p align="center">
+<a href="mailto:aqua.tofana21@gmail.com"><img src="https://img.shields.io/badge/aqua.tofana21@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/aquatofana21"><img src="https://img.shields.io/badge/aquatofana21-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+</div>
 <br>
 <div>
 <h2 align="center">🌸 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔! ~ 🌸</h2>
