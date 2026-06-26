@@ -36,6 +36,12 @@
 <li>
 <b>Working :</b> 𝒻𝓊𝓁𝓁𝓈𝓉𝒶𝒸𝓀 𝒹𝑒𝓋 ✧ 𝓁𝑒𝒶𝒹 𝓅𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝑒𝓇
 </li>
+<li>
+<b>Currently obsessed with:</b> 𝒲𝓊𝒸𝒽𝒶𝓃𝑔: 𝒻𝒶𝓁𝓁𝑒𝓃 𝒻𝑒𝒶𝓉𝒽𝑒𝓇𝓈 (𝓈𝑒𝓃𝒹 𝒽𝑒𝓁𝓅)
+</li>
+<li>
+<b>Fuel:</b> <a href="https://open.spotify.com/playlist/46QkoVN6x7c7U5qrXb67xH"><img src="https://img.shields.io/badge/🎧_my_coding_playlist-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+</li>
 <br>
 </div>
 <div>
