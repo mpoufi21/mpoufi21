@@ -2,11 +2,11 @@
   <center>
 <h1 align="center">🌸 ~ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 ~ 🌸</h1>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/mpoufi21">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78FB3&center=true&vCenter=true&width=520&lines=Hi+I'm+ 🌸 mpoufi 🌸;Powered+by+anime+%26+caffeine" alt="typing">
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mpoufi21&label=Side+characters+met&color=ff69b4&style=flat" alt="profile views">
